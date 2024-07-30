@@ -1,7 +1,7 @@
 # Story Writing App with Gemini-Pro
 
 This repository provides a fun and interactive Story Writing App powered by Google's Generative AI model, Gemini-Pro. 
-Run this app on Streamlit: ![Story Writing App](https://story-writing-app.streamlit.app)
+Run this app on Streamlit: [Story Writing App](https://story-writing-app.streamlit.app)
 
 ## 1. Generate Creative Stories
 
