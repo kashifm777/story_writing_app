@@ -18,7 +18,6 @@ def get_gemini_pro_text_response(prompt, prompt_dict, config):
     return response["text"]
 
 
-st.write("Using Gemini 1.0 Pro - Text only model")
 st.header("Story Writing App")
 st.subheader("Generate a story")
 
